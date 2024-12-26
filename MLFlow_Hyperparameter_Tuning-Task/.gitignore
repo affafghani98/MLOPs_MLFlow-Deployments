@@ -1,0 +1,7 @@
+# MLFlow directories
+mlruns/
+mlartifacts/
+#  Python cache and temporary files
+__pycache__/
+*.log
+*.pickle
